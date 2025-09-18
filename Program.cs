@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.ReadLine();
+        Console.WriteLine("How are you?");
     }
 }
